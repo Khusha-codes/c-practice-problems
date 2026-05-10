@@ -22,3 +22,14 @@ This is a simple C program that prints a double pyramid using `#`.
 * Functions in C
 * Loops (for loop)
 * Input validation (do-while)
+
+# Caesar Cipher in C
+
+This program encrypts text using Caesar Cipher by shifting letters using a user-provided key.
+
+## Concepts Used
+- Arrays / Strings
+- ASCII values
+- Functions
+- Loops
+- Modular arithmetic
