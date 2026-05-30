@@ -33,3 +33,24 @@ This program encrypts text using Caesar Cipher by shifting letters using a user-
 - Functions
 - Loops
 - Modular arithmetic
+
+# Substitution Cipher
+
+A C program that encrypts a message using a substitution key.
+
+## Concepts Used
+- Strings
+- Arrays
+- Nested loops
+- Character substitution
+
+## Example
+
+Key:
+zyxwvutsrqponmlkjihgfedcba
+
+Message:
+hello
+
+Output:
+svool
